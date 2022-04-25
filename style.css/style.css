@@ -1,0 +1,19 @@
+* { 
+    font-family: "Source Serif Pro";
+    line-height: 1,2;
+}
+
+body {
+    background-image:url(https://s.abcnews.com/images/Sports/WireAP_d4bffd041b25437cbcc762eb71de2362_16x9_1600.jpg);
+}
+
+
+h3 { 
+    background: rgb(0, 100, 139);
+    color: white;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 2px 2px 5px #045b96;
+    text-shadow: 1px 1px #045b96;
+    border-radius: 20px/50%;
+}
